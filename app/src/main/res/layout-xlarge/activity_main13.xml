@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="16dp"
+    tools:context="ru.maryonegames.android.aliasgame.Main13Activity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <CheckBox
+                android:id="@+id/chb_base"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_marginBottom="16dp"
+                android:background="@drawable/newyeaar"
+
+                android:text="@string/base"
+                android:textColor="@android:color/white"
+                android:textSize="36sp"
+                android:textStyle="bold" />
+
+            <CheckBox
+                android:id="@+id/chb_middle"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_marginBottom="16dp"
+                android:background="@drawable/newyeaar"
+
+                android:text="@string/middle"
+                android:textColor="@android:color/white"
+                android:textSize="36sp"
+                android:textStyle="bold" />
+
+            <!--<CheckBox
+                android:id="@+id/chb_newyear"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/newyear1"
+                android:text="@string/newyear"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                android:textSize="36sp"
+                android:layout_marginBottom="16dp"/>-->
+
+            <CheckBox
+                android:id="@+id/chb_valen"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/valen"
+                android:text="@string/valen"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                android:textSize="36sp"
+                android:layout_marginBottom="16dp"/>
+
+
+
+            <CheckBox
+                android:id="@+id/chb_film"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/film"
+                android:text="@string/film"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                android:textSize="36sp"
+                android:layout_marginBottom="16dp"/>
+
+
+            <CheckBox
+                android:id="@+id/chb_famous"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/famous"
+                android:text="@string/famous"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                android:textSize="36sp"
+                android:layout_marginBottom="16dp"/>
+
+
+            <CheckBox
+                android:id="@+id/chb_starwars"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:background="@drawable/starwars"
+                android:text="@string/starwars"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                android:textSize="36sp"
+                />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button4"
+        style="@style/ButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:onClick="start_btn"
+        android:textSize="60sp"
+        android:text="@string/next_btn" />
+</LinearLayout>

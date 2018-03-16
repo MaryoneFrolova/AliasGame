@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">ALIASGAME</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_how_to">How to play</string>
+    <string name="action_about">About</string>
+    <string name="btn_start">PLAY</string>
+
+    <string name="command_a_txt">Command A</string>
+    <string name="command_b_txt">Command B</string>
+
+    <string name="next_btn">NEXT</string>
+
+    <string name="txt_answ">Count of point to win</string>
+    <string name="txt_time">Time of the one round</string>
+
+    <string name="switch_last">Last world for all</string>
+
+    <string name="vs_text">VS</string>
+
+    <string name="start_btn">START</string>
+
+    <string name="go_btn">GO</string>
+
+    <string name="explain_txt">Explain the word...</string>
+
+    <string name="last_txt">The last world! Explain for all.</string>
+
+    <string name="nobody">NOBODY</string>
+
+    <string name="the_last_word">THE LAST WORD FOR</string>
+
+    <string name="back">back</string>
+
+    <string name="rules">1. Divide into 2 teams.
+
+\n\n2. Choose the name of the commands.
+               \n\n3 We try to explain the words to our classmates, but do not use single-root words,
+                do not translate the word into any other languages.
+
+\n\n4. Explain the words until your team wins ... or loses.
+\n\n\n\nGood luck!</string>
+
+    <string name="site">go to the site</string>
+
+    <string name="oficial">"Maryonegames \n\nSite: maryone.ru \n\n\n\nVersion: 7.0"</string>
+
+    <string name="base">Easy \n (table, iron)</string>
+    <string name="middle">Regular \n (cofferes, integral)</string>
+    <string name="newyear">New Year \n (snow, winter)</string>
+    <string name="starwars">Star Wars \n (sith, R2-D2)</string>
+    <string name="famous">Films and cartoons \n (Titanik, Cinderella)</string>
+    <string name="film">Famous people \n (Eminem, Lady Gaga)</string>
+    <string name="valen">St.Valentine day \n (love, couple)</string>
+
+    <string name="team_now">Now the team is playing:</string>
+
+    <string name="yes">Yes (+1)</string>
+    <string name="no">No (-1)</string>
+    <string name="last_dot">The last word was guessed ...</string>
+    <string name="last_que">Have you guessed the last word?</string>
+
+    <string name="skip">Skip</string>
+
+    <string name="this_round">Words from this round:</string>
+
+    <string name="word">Word</string>
+
+    <string name="guess">Guessed</string>
+    <string name="guess_no">Not guessed</string>
+
+    <string name="on_main">On main</string>
+
+    <string name="cong">CONGRETULATIONS!</string>
+    <string name="score">SCORE</string>
+
+    <string name="set_lang">Select the app language</string>
+    <string name="main_lang">Select the main language on the card</string>
+    <string name="add_lang">Select the additional language on the card</string>
+    <string name="add_lang_que">Use an additional language?</string>
+
+    <string name="send_mail">SEND A letter to the developer</string>
+
+    <string name="save">Save</string>
+
+
+    <string name="explain">    explains the word...</string>
+
+    <string name="title_end">Are you sure you want to end the game?</string>
+    <string name="text_end">Your action will lead to the transition to the game settings window. The current game will be completed.</string>
+    <string name="cancel_end">Cancel</string>
+    <string name="ok_end">OK</string>
+
+    <string name="continue_end">the game continues</string>
+
+    <string name="title_team">Team names must not be the same</string>
+    <string name="text_team">Choose another name for one of the teams</string>
+
+
+    <string name="title_set">Select a set of words</string>
+    <string name="text_set">At least one set should still be selected.</string>
+
+
+    <string name="title_pause">Pause</string>
+    <string name="text_pause">Are they resting? Now we continue</string>
+
+
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Игра ALIAS</string>
+    <string name="action_settings">Настройки</string>
+    <string name="btn_start">ИГРАТЬ</string>
+    <string name="command_a_txt">Команда А</string>
+    <string name="command_b_txt">Команда Б</string>
+    <string name="next_btn">ДАЛЕЕ</string>
+    <string name="txt_answ">Количество очков для победы:</string>
+    <string name="txt_time">Время раунда:</string>
+    <string name="switch_last">Последнее слово для всех</string>
+    <string name="vs_text">против</string>
+    <string name="start_btn">СТАРТ</string>
+    <string name="go_btn">ПРИСТУПИМ</string>
+    <string name="explain_txt">Объясните слово...</string>
+    <string name="last_txt">Последнее слово! Объясняем всем!</string>
+    <string name="nobody">НИКТО</string>
+    <string name="the_last_word">ПОСЛЕДНЕЕ СЛОВО ДЛЯ</string>
+    <string name="action_how_to">Правила игры</string>
+    <string name="action_about">О разработчике</string>
+    <string name="back">Назад</string>
+    <string name="rules">1. Делимся на 2 команды.\n\n2. Выбираем название команд. \n\n3 Пытаемся объяснить
+        слова своим сокомандникам. При этом не употребляем однокоренные слова, не переводим слово на любые другие языки.
+\n\n4. Объясняйте слова пока ваша команда не выиграет... или проиграет.
+\n\n\n\nУдачи!</string>
+    <string name="site">перейти на сайт</string>
+    <string name="oficial">\"Maryonegames \n\nОфициальный сайт: maryone.ru \n\n\n\nVersion: 7.0</string>
+    <string name="film">Звёзды шоубизнеса \n (Киану Ривз, Джонни Депп)</string>
+    <string name="famous">Фильмы и мультфильмы \n (Колобок, Бойцовский клуб)</string>
+    <string name="starwars">Звёздные войны \n (джедай, световой меч)</string>
+    <string name="newyear">Новый год \n (хоровод, ёлка, зима)</string>
+    <string name="middle">Набор посложнее \n (сценарий, налог)</string>
+    <string name="base">Базовый набор \n (стол, утюг, диван)</string>
+    <string name="valen">День Святого Валентина \n (свидание, пара)</string>
+    <string name="team_now">Сейчас играет команда:</string>
+    <string name="yes">Да (+1)</string>
+    <string name="no">Нет (-1)</string>
+    <string name="last_dot">Последнее слово угадали...</string>
+    <string name="last_que">Последнее слово угадали?</string>
+    <string name="skip">Пропустить</string>
+    <string name="this_round">Слова этого раунда:</string>
+    <string name="word">Слово</string>
+    <string name="guess">Угадано</string>
+    <string name="guess_no">Не угадано</string>
+    <string name="score">Количество баллов:</string>
+    <string name="on_main">На главную</string>
+    <string name="cong">ПОЗДРАВЛЯЕМ!</string>
+    <string name="main_lang">Выбор основного языка для карточки</string>
+    <string name="send_mail">ОТПРАВИТЬ Письмо разработчику</string>
+    <string name="save">Сохранить</string>
+    <string name="explain">" объясняет слово..."</string>
+    <string name="title_end">Вы уверены что хотите завершить игру?</string>
+    <string name="text_end">Ваше действие приведёт к переходу в окно настройки игры. Текущая игра будет завершена.</string>
+    <string name="cancel_end">Отмена</string>
+    <string name="ok_end">ОК</string>
+    <string name="continue_end">игра продолжается</string>
+    <string name="text_team">Выберите другое название одной из команд</string>
+    <string name="title_team">Названия команд не должны быть одинаковыми</string>
+    <string name="add_lang">Выберите дополнительный язык для карточки</string>
+    <string name="add_lang_que">Использовать дополнительный язык?</string>
+    <string name="text_set">Хотя бы один набор выбрать всё-таки нужно.</string>
+    <string name="title_set">Выберите набор слов</string>
+    <string name="text_pause">Передохнули? Теперь продолжим</string>
+    <string name="title_pause">Пауза</string>
+    <string name="set_lang">Выберите язык приложения</string>
+
+</resources>
