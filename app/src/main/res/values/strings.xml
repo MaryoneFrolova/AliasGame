@@ -95,6 +95,9 @@
     <string name="title_team">Team names must not be the same</string>
     <string name="text_team">Choose another name for one of the teams</string>
 
+    <string name="title_team_null">Team name can\'t be \"\"</string>
+    <string name="text_team_null">Choose another team name</string>
+
 
     <string name="title_set">Select a set of words</string>
     <string name="text_set">At least one set should still be selected.</string>
@@ -103,5 +106,7 @@
     <string name="title_pause">Pause</string>
     <string name="text_pause">Are they resting? Now we continue</string>
 
+    <string name="max_count_commands">Maximum number of commands 8</string>
+    <string name="min_count_commands">Minimum number of commands 2</string>
 
 </resources>

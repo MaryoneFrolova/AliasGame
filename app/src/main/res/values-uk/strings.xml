@@ -63,4 +63,8 @@
     <string name="text_pause">Перепочили? тепер продовжимо</string>
     <string name="title_pause">Пауза</string>
     <string name="set_lang">Виберіть мову додатка</string>
+    <string name="max_count_commands">Максимальне число команд - 8</string>
+    <string name="min_count_commands">Мінімальне число команд - 2</string>
+    <string name="title_team_null">Назва команди не може бути \"\"</string>
+    <string name="text_team_null">Виберіть іншу назву команди</string>
 </resources>

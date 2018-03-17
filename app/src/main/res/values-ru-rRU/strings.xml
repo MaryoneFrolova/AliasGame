@@ -63,5 +63,9 @@
     <string name="text_pause">Передохнули? Теперь продолжим</string>
     <string name="title_pause">Пауза</string>
     <string name="set_lang">Выберите язык приложения</string>
+    <string name="max_count_commands">Максимальное число комманд - 8</string>
+    <string name="min_count_commands">Минимальное число комманд - 2</string>
+    <string name="title_team_null">Название команды не может быть \"\"</string>
+    <string name="text_team_null">Выберите другое название команды</string>
 
 </resources>
