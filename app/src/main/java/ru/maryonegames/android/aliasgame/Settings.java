@@ -35,8 +35,8 @@ public class Settings extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_settings);
 
-        command_a_edit = (EditText) findViewById(R.id.command_a_edit);
-        command_b_edit = (EditText) findViewById(R.id.command_b_edit);
+        //command_a_edit = (EditText) findViewById(R.id.command_a_edit);
+       // command_b_edit = (EditText) findViewById(R.id.command_b_edit);
 
         txt_time_count = (TextView) findViewById(R.id.txt_time_count);
         txt_answ_count = (TextView) findViewById(R.id.txt_answ_count);
@@ -90,14 +90,14 @@ public class Settings extends AppCompatActivity {
     }
 
     public void next_name_command_a(View view) {
-        EditText command_a_edit = (EditText) findViewById(R.id.command_a_edit);
+       // EditText command_a_edit = (EditText) findViewById(R.id.command_a_edit);
         String name_cmd = change_command_name();
         command_a_edit.setText(name_cmd);
 
     }
 
     public void next_name_command_b(View view) {
-        EditText command_b_edit = (EditText) findViewById(R.id.command_b_edit);
+       // EditText command_b_edit = (EditText) findViewById(R.id.command_b_edit);
         String name_cmd = change_command_name();
         command_b_edit.setText(name_cmd);
 

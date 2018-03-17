@@ -39,11 +39,4 @@ public class one_word {
         return word_for_explain_ad;
     }
 
-    public void setWord_for_explain(String word_for_explain) {
-        this.word_for_explain = word_for_explain;
-    }
-
-    public void setWord_for_explain_ad(String word_for_explain_ad) {
-        this.word_for_explain_ad = word_for_explain_ad;
-    }
 }

@@ -56,7 +56,7 @@ public class StartActivity extends AppCompatActivity {
     }
 
     public void start_btn (View view){
-        Intent intent = new Intent(StartActivity.this, Settings.class);
+        Intent intent = new Intent(StartActivity.this, SettingComandsActivity.class);
         startActivity(intent);
     }
 }
